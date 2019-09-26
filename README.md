@@ -12,7 +12,7 @@ The portfolio demonstrated the learning objectives and the competency I have ach
 2. Professional Resume
 * [HIMADRI_TEWARI_Resume.pdf](https://github.com)
 3. Portfolio Milestone Report
-
+* [Himadri Tewari_Portfolio_Milestone.docx](https://github.com)
 4. Projects & Assignments
 
 5. Portfolio Presentation Video
