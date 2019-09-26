@@ -10,7 +10,7 @@ The portfolio demonstrated the learning objectives and the competency I have ach
 1. README file
 * Overview Document detailing repository contents
 2. Professional Resume
-
+* [HIMADRI_TEWARI_Resume.pdf](https://github.com)
 3. Portfolio Milestone Report
 
 4. Projects & Assignments
