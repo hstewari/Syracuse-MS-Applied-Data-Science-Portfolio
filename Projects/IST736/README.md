@@ -1,4 +1,4 @@
-# IST707 - Data Analytics
+# IST736 - Scripting For Data Analysis
 ### Name: Himadri Sekhar Tewari
 ### SUID: 227851541
 ### hstewari@syr.edu
