@@ -30,7 +30,7 @@ In this project, we have done data analysis to analyze the factors which impact 
 * tidyr
 * qdap
 * quanteda
-* ## Project Details
+## Project Details
 * [data](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST707/data)
 * [presentation](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST707/presentation)
 * [report](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST707/report)
