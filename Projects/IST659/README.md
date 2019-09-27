@@ -11,6 +11,6 @@ In this project, I build a database for a pizza company for online ordering appl
 * R Studio
 ## Project Details
 * [data](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST659/data)
-* [presentation](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST659/presentation)
+* [model](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST659/presentation)
 * [report](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST659/report)
 * [script](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST659/script)
