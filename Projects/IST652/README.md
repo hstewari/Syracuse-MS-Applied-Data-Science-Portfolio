@@ -8,16 +8,16 @@ The objective of the project is to analyze the current job posting data of New Y
 Python
 Jupyter Notebook
 ## Libraries
-numpy
-pandas
-matplotlib.pyplot
-seaborn
-re
-nltk
-wordcloud
-calendar
-geopy
-gmplot
+* numpy
+* pandas
+* matplotlib.pyplot
+* seaborn
+* re
+* nltk
+* wordcloud
+* calendar
+* geopy
+* gmplot
 ## Project Details
 * [data](https://github.com)
 * [presentation](https://github.com)
