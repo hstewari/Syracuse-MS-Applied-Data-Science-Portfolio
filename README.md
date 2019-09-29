@@ -16,10 +16,10 @@ The portfolio demonstrated the learning objectives and the competency I have ach
 4. Project
 * [Projects](https://github.com)
 5. Project Details
-* [IST652](https://github.com)
-* [IST659](https://github.com)
-* [IST707](https://github.com)
-* [IST736](https://github.com)
+* [IST652](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST652)
+* [IST659](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST659)
+* [IST707](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST707)
+* [IST736](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST736)
 6. Portfolio Presentation Video
 
 7. Portfolio Presentation
