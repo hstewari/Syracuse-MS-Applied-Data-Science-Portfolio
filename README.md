@@ -13,10 +13,15 @@ The portfolio demonstrated the learning objectives and the competency I have ach
 * [HIMADRI_TEWARI_Resume.pdf](https://github.com)
 3. Portfolio Milestone Report
 * [Himadri Tewari_Portfolio_Milestone.docx](https://github.com)
-4. Projects & Assignments
+4. Project
+* [Projects](https://github.com)
+5. Project Details
+* [IST652](https://github.com)
+* [IST659](https://github.com)
+* [IST707](https://github.com)
+* [IST736](https://github.com)
+6. Portfolio Presentation Video
 
-5. Portfolio Presentation Video
-
-6. Portfolio Deck
+7. Portfolio Deck
 
 
