@@ -22,6 +22,7 @@ The portfolio demonstrated the learning objectives and the competency I have ach
 * [IST736](https://github.com)
 6. Portfolio Presentation Video
 
-7. Portfolio Deck
+7. Portfolio Presentation
+* [Portfolio Presentation](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Presentation)
 
 
