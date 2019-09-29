@@ -10,11 +10,11 @@ The portfolio demonstrated the learning objectives and the competency I have ach
 1. README file
 * Overview Document detailing repository contents
 2. Professional Resume
-* [HIMADRI_TEWARI_Resume.pdf](https://github.com)
+* [HIMADRI_TEWARI_Resume.pdf](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/blob/master/HIMADRI_TEWARI_Resume.pdf)
 3. Portfolio Milestone Report
 * [Himadri Tewari_Portfolio_Milestone.docx](https://github.com)
 4. Project
-* [Projects](https://github.com)
+* [Projects](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects)
 5. Project Details
 * [IST652](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST652)
 * [IST659](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST659)
