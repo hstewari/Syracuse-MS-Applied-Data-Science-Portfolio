@@ -21,7 +21,7 @@ The portfolio demonstrated the learning objectives and the competency I have ach
 * [IST707](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST707)
 * [IST736](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Projects/IST736)
 6. Portfolio Presentation Video
-
+* [Portfolio Presentation Video](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/blob/master/Himadri_Tewari_Presentation%20Video.mp4)
 7. Portfolio Presentation
 * [Portfolio Presentation](https://github.com/hstewari/Syracuse-MS-Applied-Data-Science-Portfolio/tree/master/Presentation)
 
