@@ -1,4 +1,4 @@
-# IST736 - Scripting For Data Analysis
+# IST736 - Text Mining
 ### Name: Himadri Sekhar Tewari
 ### SUID: 227851541
 ### hstewari@syr.edu
